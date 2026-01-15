@@ -128,8 +128,5 @@ FROM Visa;
 - SQL (Structured Query Language)
 - Any relational database system (MySQL, SQL Server, PostgreSQL, etc.)
 
----
 
-## Author
-- **Your Name** – Swaran Adepu
----
+
