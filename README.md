@@ -1,4 +1,4 @@
-# GROUP PROJECT 4: International Student & Visa Management System (SQL Project)
+International Student & Visa Management System (SQL Project)
 
 ## Project Overview
 Managing visa applications, financial aid, and course enrollment for international students is often inefficient when done manually or across disconnected systems. This project creates a **centralized SQL database** to manage international students, dependents, tourist visas, and related information efficiently.  
